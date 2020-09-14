@@ -1,6 +1,6 @@
 # Alphabetic Anagrams
 
-> My solution of a CodeWars 'Kata' -> https://www.codewars.com/kata/53e57dada0cb0400ba000688
+> My solution of CodeWars 'Kata' -> https://www.codewars.com/kata/53e57dada0cb0400ba000688
 > <br>Keywords: JavaScript / Algorithms / Strings / Mathematics / Permutations
 
 ## :question: Problem
