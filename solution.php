@@ -1,3 +1,5 @@
+<?php
+
 function listPosition(word) {
   var array     = word.split('')
   var digitsNum = array.length
@@ -72,3 +74,5 @@ function getPermutations(counter, digitsNum) {
   var permutations = rFact(digitsNum)/denominator
   return permutations  
 }
+
+?>
